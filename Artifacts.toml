@@ -7,7 +7,7 @@ os = "macos"
 
     [[lwgrp.download]]
     sha256 = "ef43c585b6f77d6252837227524c70199da18c5e0ed167cb85264e686f5ce581"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "45fbbea4ff5317c62da3f8f502b3c0bdf81d363a"
@@ -17,17 +17,17 @@ os = "macos"
 
     [[lwgrp.download]]
     sha256 = "8216b893a71ed689c6c3b2c81e9b5cd04b30e98bd424d809e5119dd93f9837d8"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
-git-tree-sha1 = "190f14fba8553d981b0868933f5e7a9a3e406929"
+git-tree-sha1 = "98c5c7dafb03c2a90db44ab96bfe81d0bb727d5c"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[lwgrp.download]]
-    sha256 = "ef5dd1ee64c5e62421339e98726c6f9e6114b08e7450691497efa9124e6c8bac"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "bd8f6293b1059289af8a3630ccb9cd684f2d275d936536df609c4f71f2f03119"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "e080656b8d01d208d07e83db766db58ec6475d16"
@@ -38,7 +38,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "6718de53b3c0870b9d883c9a94381a70b2970bb4b9b74503f47ba0e514ad0294"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "cb58ca38b559e8d3d42aebc6c5f8f0af5aabb54b"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "9dc374229d61d1b1271f174207271848aabc1cf6bdd23a2ac838ae72ea4321fd"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "ab2f6b8543477323a4dcf68b91afa6781bed8b17"
@@ -60,7 +60,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "51dce341110c144d330a3c1ea42e5ee75d0585661409295b69036fdb8c5873d7"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-linux-gnu-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "0492a3ea2230c9b0076f78defc086b934063ffd2"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "b7d1e5a50be16a5b3121896336d5f3b90ae329cb628903d3c6293cb5953d27b6"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "7416ceb6d7296138834f27665c26f4932bd3fc1f"
@@ -82,7 +82,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "c6c9a0e3c47ab5b8aeced121b42333751368592c69dfcf7adbb1340591218d73"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-linux-musl-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "0313929a0bb1d2c332d79d3d9a3b27e0a2eebc17"
@@ -92,7 +92,7 @@ os = "freebsd"
 
     [[lwgrp.download]]
     sha256 = "63698508fcef04aac3e616f0ae76e4a172fc10ccb28f685508d4df7ca034c3e8"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "aarch64"
 git-tree-sha1 = "689a64a9639cf49ad171948d1bd2a8382a89f60a"
@@ -102,7 +102,17 @@ os = "freebsd"
 
     [[lwgrp.download]]
     sha256 = "b61bbbfdb12afbb2e4b49c964cd9eefd9aff992df876db7e4432074dfc6cf5c6"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[lwgrp]]
+arch = "aarch64"
+git-tree-sha1 = "9a5d853853b7ac77a042c3c1003d09c6604699c1"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[lwgrp.download]]
+    sha256 = "852d31b161210d544960f66f97bb2c7b184621414d8b31553924d7e2ac100d73"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -114,7 +124,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "fd6290dc60d45d3d2fbc8a33ae52a8240641ae4ad08b0c25a9c3067f6e43e6e5"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -126,7 +136,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "651c12fa8a31e8b5d42eb7f72cf6422a962ae2e57955773c646b404295c618a1"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -138,7 +148,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "619c6491eb6ccaeef25b6175ab059bed11b9c5e5d514ccab37254dd1bc06bb6e"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -150,7 +160,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "60b6892729337b09760df33d17163ad1a21f5b3827fba63e19191a7e7ae6cf19"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -162,7 +172,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "9d8f1f2ee7a37ca1f7e974b4ff0f22021748d870ad84e6f5c1c5c21322e71044"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -174,7 +184,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "2c16c3efe3e9d372c999e89024eabff41323555ab499f8ba98fc920e71062ec0"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -186,7 +196,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "cbdb90ab814f87d955c24f34219f3fabc74780bcfa673ec86e32570e2f8f06b1"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -198,7 +208,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "8144f4bc58a508874abf5770c0276fa08f25babe62b70c9b8a7a3d1b23cfd3cc"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -210,7 +220,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "9c14fe624975721fc0ddcceb3907f73d836dbbc2a9e8866d57f1aed9273f5f00"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "i686"
 git-tree-sha1 = "ae4866d40942a120463bac1afcfc6df67bead249"
@@ -221,7 +231,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "f6c73a24c15057ee91eb1a60c80b86ab744ca47bc3d812d0d70f83c38e014425"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.i686-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.i686-linux-gnu-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "i686"
 git-tree-sha1 = "769c7f69294a260164f94091e90ff372393f9e52"
@@ -232,7 +242,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "787016f668df5d669ad1500778b43a3bb9d79358388d4d2175825d3d8cb9bf35"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "i686"
 git-tree-sha1 = "08ceeb123e916b7d574dbab6e207cabd45e4b14d"
@@ -243,7 +253,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "1b3ef85f01c8c3cab03e910c9b7dc9560022e9fc8a76a0c06e7ae3700b2d0d9c"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.i686-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.i686-linux-gnu-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "i686"
 git-tree-sha1 = "586de036e95d1c91d0d25acd010876385eef5470"
@@ -254,7 +264,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "6640212e3ea3514b9622b1b75ed0bd663992ffb5e8337ba5f750ed12ded6818e"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.i686-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.i686-linux-musl-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "i686"
 git-tree-sha1 = "359e2abb48b5a4cb305496ee4c7cd3d812a97627"
@@ -265,7 +275,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "0863424cf3128d3ea4e4f9947a3f6a22222eb6b8dd467996361bd4f8bd6d60c0"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.i686-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.i686-linux-musl-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "powerpc64le"
 git-tree-sha1 = "2a846da5ef7c13529d6d05d342d69327161f8d86"
@@ -276,7 +286,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "215f66cca109842f11fdf5f4679bcaae691b1d40b08b3f100aff2a58fc7f4d0f"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "powerpc64le"
 git-tree-sha1 = "e3a9ed5e69d901c3384c07436ba7e438bb10c92c"
@@ -287,7 +297,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "597e0364829dcb2aeff012506ac078f700249ea3afda8f5046a5a5d8cb0f8671"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "powerpc64le"
 git-tree-sha1 = "aad2bf673d469222f14f90cecb5875a621fbf6cd"
@@ -298,7 +308,40 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "2e6008f2062a115249a2d067d83c5a6398084d7d1c3d7337ad05e5652086fe7c"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[lwgrp]]
+arch = "riscv64"
+git-tree-sha1 = "8520db351e45c3c70d5622f6abcaff08ea8484bc"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[lwgrp.download]]
+    sha256 = "da4155b55ca95e1f62a96e895aba6b1ba69c83f612418af23cfc841eab4b95b2"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[lwgrp]]
+arch = "riscv64"
+git-tree-sha1 = "a4f4a5835c3df3e02f4aa48f3fd7de4e81aa84d5"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[lwgrp.download]]
+    sha256 = "24aeefc337e35f9baad2fff9b3a671fb8b34669bb83e0cd91e1ec700f1615537"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[lwgrp]]
+arch = "riscv64"
+git-tree-sha1 = "69d365ba22c5f5cf0861ecd66692222b408ea623"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[lwgrp.download]]
+    sha256 = "ce663adaca623663327539a2ca8db1f88101e075122e3d9e7e9b7c7f101f5953"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.riscv64-linux-gnu-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "6d2a2e24328cd68c4fd7e06c9744190d7938e08c"
@@ -308,7 +351,7 @@ os = "macos"
 
     [[lwgrp.download]]
     sha256 = "6ac7e94176fe4366fc08b9fb8651fd4c7aa4cd53604bc06917cbd3e2fdac5611"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "2fcf18d00885b08fb0c77c4ac2239608d3a99079"
@@ -318,17 +361,17 @@ os = "macos"
 
     [[lwgrp.download]]
     sha256 = "4bd7cd7c6f1a57a1440ddc9c7351577f63b0f086f827754c05593ecce4158ba8"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
-git-tree-sha1 = "58f1887befcb19ff107b4267e03e449cdb7c6759"
+git-tree-sha1 = "68aac9f71d8124af6dda81b4579ddaafcb2cd2b9"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[lwgrp.download]]
-    sha256 = "d2cf452b4ce5c1baa73585102a2f7b2d3ed5dc4771cf4a7bcde0163c4479772b"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "f8db075a8e18d7fe901573de01a60e49ec3b03936bec45ab8d5687711113753b"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "3553d9f29006104320ef116e665aca0d052c1906"
@@ -339,7 +382,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "59c4c5402bd5a54f6eefed73dfe86f63d762fcb31c96402e87dfd0cdc9b8f626"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "b8cc2721f30dcb15cb6513585f8c668051987ef3"
@@ -350,7 +393,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "9c07556bc6bfd77da7f223d87d3ace730887ddd59928ea8d47194eecee69a98a"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "a50ae85b4c6a22ca1ea253699b5870dc1cc16aa7"
@@ -361,7 +404,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "a50dd930b579d6d73432fdba5c3f5e074f3390a8122cc2d593710bdcd2967454"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-linux-gnu-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "8a869cdb9fffcc06e7601a37885f12e24e478080"
@@ -372,7 +415,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "f0d5fc80d4ad363d13e73c1169e0e9b0d797e11bc33af1a07145bb2252c9f0e1"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "733b4ebda503198a335d0d1bd0e8b088bd126918"
@@ -383,7 +426,7 @@ os = "linux"
 
     [[lwgrp.download]]
     sha256 = "b1a51fa376c6e274b21cd7ac680fee8a06238163f7a1ac7530a5701710a59a07"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-linux-musl-mpi+openmpi.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "ac6f090e43f86d4f54ab9eeef4c2d104f581909b"
@@ -393,7 +436,7 @@ os = "freebsd"
 
     [[lwgrp.download]]
     sha256 = "986a128932de96952e3e697c06a3d217aa4ae7ee6a9a2dc8fd660f4f226450f1"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "d5789ff2000fc6439a3812cac0657d770a6fbd5c"
@@ -403,7 +446,7 @@ os = "freebsd"
 
     [[lwgrp.download]]
     sha256 = "4bd028ad7a17717a58b43207170def3254915a31a9203c10deb11373d03f8102"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[lwgrp]]
 arch = "x86_64"
 git-tree-sha1 = "717b04bca1915b1bb2aedca07694a2c61f78da8e"
@@ -413,4 +456,4 @@ os = "freebsd"
 
     [[lwgrp.download]]
     sha256 = "6094bfaf8168d13265fcdf1408465e86bf9a50947d993880a87dff7be940664e"
-    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.6+0/lwgrp.v1.0.6.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/lwgrp_jll.jl/releases/download/lwgrp-v1.0.7+0/lwgrp.v1.0.7.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"

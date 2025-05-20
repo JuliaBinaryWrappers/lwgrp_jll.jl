@@ -1,6 +1,6 @@
 name = "lwgrp_jll"
 uuid = "15646b25-2db2-5811-aabe-7bb0d81fd3fd"
-version = "1.0.6+0"
+version = "1.0.7+0"
 
 [deps]
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
@@ -21,7 +21,7 @@ MPICH_jll = "4.3.0 - 4"
 MPIPreferences = "0.1"
 LazyArtifacts = "< 0.0.1, 1"
 Libdl = "< 0.0.1, 1"
-MPItrampoline_jll = "5.5.1"
+MPItrampoline_jll = "5.5.3 - 5"
 TOML = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
-OpenMPI_jll = "4.1.6, 5"
+OpenMPI_jll = "4.1.8, 5.0.7"
